@@ -1,4 +1,4 @@
-# Contributing - update from feature 2 branch
+# Contributing - update from feature 2 and updated from feature 1 branch
 
 [fork]: https://github.com/githubtraining/training-manual/fork
 [pr]: https://github.com/githubtraining/training-manual/compare
