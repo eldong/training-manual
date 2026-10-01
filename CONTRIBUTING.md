@@ -1,4 +1,4 @@
-# Contributing
+# Contributing - Update
 
 [fork]: https://github.com/githubtraining/training-manual/fork
 [pr]: https://github.com/githubtraining/training-manual/compare
