@@ -1,4 +1,4 @@
-## Getting ready for class - Test codeonwers
+## Getting ready for class - Test codeonwers - Second Update - Updated based on reviewed feedback
 
 While you are waiting for class to begin, please take a few minutes to set up your local work environment.
 
