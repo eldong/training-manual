@@ -1,4 +1,4 @@
-# Contributing
+# Contributing - update from feature 1 branch
 
 [fork]: https://github.com/githubtraining/training-manual/fork
 [pr]: https://github.com/githubtraining/training-manual/compare
